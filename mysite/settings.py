@@ -25,7 +25,7 @@ SECRET_KEY = '(+a^88*3wwdw7-*ga%@uw9$yelnp&x%*z94d6z&&i4*@)hg6&#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['alinda.pythonanywhere.com',]
 
 
 # Application definition
